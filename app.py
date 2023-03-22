@@ -65,7 +65,7 @@ class eMailing:
         with smtplib.SMTP(host='smtp.gmail.com', port=587) as smtp:
             smtp.ehlo()
             smtp.starttls()
-            smtp.login("kakagems26@gmail.com", "vdrgjucmalsyrndw")
+            smtp.login("xxxxxxxxxxxxx", "xxxxxxxxxxxx")
             smtp.send_message(email)
 
 
