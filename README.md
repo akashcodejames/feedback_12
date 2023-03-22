@@ -1,2 +1,3 @@
-first create schema and tables as instructed in creating_database_tables.py file  
-If you want the complete file you can download the full resource provided in  gama.rar 
+To begin, follow the instructions provided in the creating_database_tables.py file 
+to create the necessary schema and tables. For access to the complete set of resources,
+you can download gama.rar file from current repository.
